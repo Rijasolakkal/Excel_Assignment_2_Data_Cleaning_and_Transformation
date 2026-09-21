@@ -34,8 +34,4 @@ To clean, transform, and format a product dataset using Microsoft Excel.
 
 ## Tools Used
 
-- Microsoft Excel
-
-## Screenshot
-
-![Excel Assignment 2 Screenshot](Assignment_2_Screenshot.png)
+- Microsoft Excel.
